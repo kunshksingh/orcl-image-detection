@@ -2,3 +2,5 @@
 Looks at gaze points from eye-tracking data to determine the time spent looking at each object within the pedestrian simulation
 
 Using OpenCV, Pytorch (YoloV5's model)
+
+Used Roboflow to annotate images to train YoloV5 Model
